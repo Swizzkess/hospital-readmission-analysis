@@ -96,5 +96,3 @@ This analysis enables healthcare providers to:
 - Improve resource allocation and patient care strategies  
 
 ---
-# hospital-readmission-analysis
-SQL + Power BI project analyzing hospital readmissions and predicting high-risk patients
