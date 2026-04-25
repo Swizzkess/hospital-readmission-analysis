@@ -96,3 +96,8 @@ This analysis enables healthcare providers to:
 - Improve resource allocation and patient care strategies  
 
 ---
+### 👤 Kesiena Perez Agberhiere 
+Data Analyst • SQL • Power BI • Healthcare Analytics
+
+📫 Contact: swizzkess@yahoo.com  
+🔗 LinkedIn: www.linkedin.com/in/kesiena-perez-agberhiere-03378bb4
